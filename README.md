@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Laura,
+- 🤔 I’m interested in 
+- 🧠 I’m currently learning HTML, JavaScript and soon I will going to learn PHP.
