@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 
-- 🔭 I’m currently working on [creating Graffiti page](https://github.com/janis0316/7-graffiti)
+- 🔭 I’m currently working on [Graffiti page](https://github.com/janis0316/7-graffiti)
 
 - 🌱 I’m currently learning **HTML, JavaScript and soon I will going to learn PHP.**
 
