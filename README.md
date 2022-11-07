@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif">
+<img align="right" alt="Coding" width="330" src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif">
 
 - 🔭 I’m currently working on [Graffiti page](https://github.com/janis0316/7-graffiti)
 
