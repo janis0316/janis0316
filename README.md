@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on [Graffiti page](https://github.com/janis0316/7-graffiti) -->
 
-- 🌱 I’m currently learning **HTML, JavaScript and soon I will going to learn PHP.**
+- 🌱 I’m currently learning **HTML, JavaScript and PHP.
 
 - 👨‍💻 All of my projects are available at [https://github.com/janis0316?tab=repositories](https://github.com/janis0316?tab=repositories)
 
